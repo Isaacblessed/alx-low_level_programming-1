@@ -1,3 +1,5 @@
-# 0x08-recursion - ALX-SE 2022 - COHORT 6 
-## Eng Ismail Mohamed
-#JIGJIGA, ETHIOPIA
+# 0x08-recursion
+## By Alagwu David
+### ALX-Software Engineering Programming
+``` COHORT 9 ```
+📍 Lagos, Nigeria
