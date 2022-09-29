@@ -1,4 +1,4 @@
 #07. C - Even more pointers, arrays and strings
-## By Ismail Mohamed
+## By Alagwu David
 ## ALX-Software Engineering Programm
-``` COHORT 6 ```
+``` COHORT 9 ```
