@@ -3,7 +3,7 @@
 
 /**
  * File: main.h
- * Auth: Ismail Mohamed - ALX -SE COHORT 6
+ * Auth: Alagwu David - ALX -SE COHORT 9
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x0B-more_malloc_free directory.
  */
